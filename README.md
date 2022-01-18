@@ -1,12 +1,14 @@
 # Cos 1급 실습하기
 
-[goormedu COS 1급 기출문제](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java)　　language: JAVA  
+[goormedu COS 1급 기출문제](https://edu.goorm.io/learn/lecture/17301/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-java) (language: JAVA)
+
+<br>
 
 - [git 명령어](./Git/git_bash.md) `22-01-14`
 - [마크다운 정리](./Markdown/markdown.md) (수정중) `22-01-15`
 
 
-<br><br>
+<br>
 
 
 **1차**
