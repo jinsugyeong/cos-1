@@ -14,6 +14,9 @@
 3. 푸쉬   
 	```
 	git push origin master
+	
+	//강제
+	--force
 	```
 	
 4. user.name, user.email 설정
