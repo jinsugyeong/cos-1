@@ -11,15 +11,14 @@
 	git commit -m ""
 	```      
 	
-	
-2-1. 커밋 취소
+3. 커밋 취소
 	```
 	git rm *
-	or
+	or 
 	git reset *
 	```   
 
-3. 푸쉬   
+4. 푸쉬   
 	```
 	git push origin master
 	
@@ -27,13 +26,13 @@
 	--force
 	```
 	
-4. user.name, user.email 설정
+5. user.name, user.email 설정
 	```
 	git config --global user.name "your_name"
 	git config --global user.email "your_email"
 	```
 
-5. clone 만들기
+6. clone 만들기
 	```
 	git clone 주소 폴더이름(없어도됨)
 	git checkout -b 브렌치이름   
